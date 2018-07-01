@@ -30,4 +30,4 @@ To launch them just type ```~test``` in a running SBT session or simply type ```
 
 .
 
-Author: [Dan Kamau](https://kamauadan.github.io)
+Author: [Dan Kamau](kamaudan.github.io/)
