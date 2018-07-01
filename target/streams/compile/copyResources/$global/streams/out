@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/dan/play26-swagger-reactivemongo/conf/application.conf,/home/dan/play26-swagger-reactivemongo/target/scala-2.12/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/dan/play26-swagger-reactivemongo/conf/routes,/home/dan/play26-swagger-reactivemongo/target/scala-2.12/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/dan/play26-swagger-reactivemongo/conf/logback.xml,/home/dan/play26-swagger-reactivemongo/target/scala-2.12/classes/logback.xml)[0m
